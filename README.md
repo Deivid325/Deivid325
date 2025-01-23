@@ -8,7 +8,9 @@ Siempre aprendiendo: Actualmente estoy perfeccionando mis habilidades como desar
 ⚡ Habilidades
 
 *Java: Desarrollo de aplicaciones orientadas a objetos, con un enfoque en la creación de soluciones eficientes y escalables.
+
 *Bases de datos: Dominio en diseño, consultas y gestión de bases de datos relacionales como MySQL y PostgreSQL.
+
 *Desarrollo web: Experiencia en la construcción de interfaces modernas con HTML, CSS y JavaScript.
 
 Siempre en constante aprendizaje de nuevas herramientas y tecnologías para mantenerme actualizado.
