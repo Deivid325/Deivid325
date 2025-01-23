@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 ¡Hola! Soy David Delgado
+🌟 Administardor de sistemas | Estudiante DAM
 
-<!--
-**Deivid325/Deivid325** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Un poco sobre mí
 
-Here are some ideas to get you started:
+Siempre aprendiendo: Actualmente estoy perfeccionando mis habilidades como desarrollador de aplicaciones. En mi camino, exploro constantemente nuevos lenguajes de programación, herramientas y técnicas para seguir creciendo como profesional.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Habilidades
+
+*Java: Desarrollo de aplicaciones orientadas a objetos, con un enfoque en la creación de soluciones eficientes y escalables.
+*Bases de datos: Dominio en diseño, consultas y gestión de bases de datos relacionales como MySQL y PostgreSQL.
+*Desarrollo web: Experiencia en la construcción de interfaces modernas con HTML, CSS y JavaScript.
+
+Siempre en constante aprendizaje de nuevas herramientas y tecnologías para mantenerme actualizado.
+
+🤝¡Gracias por visitar mi perfil! Estoy abierto a colaborar en proyectos interesantes o simplemente intercambiar ideas.
