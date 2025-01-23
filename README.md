@@ -1,5 +1,5 @@
 ## 👋 ¡Hola! Soy David Delgado
-🌟 Administardor de sistemas | Estudiante DAM
+🌟 Administrador de sistemas | Estudiante DAM
 
 🚀 Un poco sobre mí
 
